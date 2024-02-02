@@ -8,7 +8,7 @@ import java.util.Scanner;
  * To be used as starting code in Exercise
  *
  
- * @author Swapnil Ramani Jan 25, 2022 
+ * @author Swapnil Ramani Feb 02, 2024
  */
 public class CardTrick {
     public static void main(String[] args) {
